@@ -1,0 +1,7 @@
+<stringtable>
+  <ID name="Self_ToolTip">Generates an alert whenever a file changes. This is mostly intended for monitoring text files and displaying their contents when they update.</ID>
+  <ID name="Path_ToolTip">The path to the file to monitor for file changes.</ID>
+  <ID name="CheckEvery_ToolTip">Controls how often to check the file for changes. If set to "inf", changes need to be checked for manually using the "Check Now" action.</ID>
+  <ID name="Alerts_onFileUpdate_ToolTip">Emitted whenever the file changes. Contains the file data in the alert for connecting to compatible recievers.</ID>
+  <ID name="Actions_CheckNow_ToolTip">Immediately checks for file changes.</ID>
+</stringtable>
